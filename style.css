@@ -2,3 +2,27 @@
 header {
     color: red;
 }
+/* h2 {
+    color: blue;
+} */
+
+article p {
+color: green;
+}
+
+.article {
+    color: coral;
+}
+
+/* selector con id */
+#text-1 {
+    color: aqua;
+}
+
+#text-2 {
+    color: blueviolet;
+}
+
+#text-3 {
+    color: yellow;
+}
